@@ -54,7 +54,7 @@ const clearUI = () => {
 const createSaveBtn = (saveURL) => { 
     const link = document.createElement('a');
     link.id = 'save-link';
-    link.classList = 'bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded w-1/3 m-auto my-5';
+    link.classList = 'bg-orange-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded w-1/3 m-auto my-5';
     link.href = saveURL;
     link.download = 'qrcode';
     link.innerHTML = 'Save QR Code';
