@@ -1,8 +1,8 @@
-![Screenshot of QR code generator](/img/screen.png)
+![Screenshot of QR code generator](/img/screenshot.png)
 
 # QR Code Generator
 
-This project is a simple QR code generator that allows users to create QR codes for their website, social media, or any other link.
+This project is a simple QR code generator that allows users to create QR codes for their website, social media, or any other link. A precursor to Orangy's QR Code Maker.
 
 ## How it works
 
